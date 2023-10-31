@@ -1,0 +1,15 @@
+{
+  "name": "Combined Pantheon",
+  "type": "Pantheon",
+  "uniques": [
+    "[+1 Faith] from every [Salt]",
+    "[+1 Faith] from every [Copper]",
+    "[+1 Faith] from every [Iron]",
+    "[+1 Faith, +2 Culture, +2 Gold, +2 Science, +2 Production] from every [Palace]",
+    "[+2 Food] from every [Bananas]",
+    "[+2 Food] from every [Citrus]",
+    "[+2 Food] from every [Wheat]",
+    "[+2 Faith] from every [Gems]",
+    "[+2 Faith] from every [Pearls]"
+  ]
+}
