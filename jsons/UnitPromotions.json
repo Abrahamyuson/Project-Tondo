@@ -18,6 +18,8 @@
             "Earn [20]% of the damage done to [Military] units as [Culture]",
             "Earn [20]% of the damage done to [Military] units as [XP]",
             "Earn [33]% of the damage done to [City] units as [Gold]",
+            "Earn [33]% of the damage done to [City] units as [Culture]",
+            "Earn [33]% of the damage done to [City] units as [XP]",
             "[+50]% Strength <when defending> <vs [Ranged] units>",
             "[+25]% Strength <when fighting in [Friendly Land] tiles>",
             "[+50] HP when healing",
