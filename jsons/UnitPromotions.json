@@ -1,16 +1,16 @@
 [
-{
+    {
         "name": "Mystic Buffalo Champion",
         "uniques": [
             "[+65]% Strength <when attacking>",
             "[+50]% Strength <when defending>",
             "[+2] Movement",
-            "[1] additional attacks per turn","[+1],
+            "[1] additional attacks per turn",
             "[+50]% Strength <when defending> <vs [Ranged] units>",
             "[+25]% Strength <when fighting in [Friendly Land] tiles>",
             "[+50] HP when healing",
             "[+15]% Strength bonus for [Military] units within [2] tiles",
-            "[+125]% to Flank Attack bonuses]",
+            "[+125]% to Flank Attack bonuses",
             "[+10]% Strength <when fighting in [Open terrain] tiles>",
             "[+50]% Strength <when fighting in [Desert] tiles>",
             "[+10]% Strength <when fighting in [Hill] tiles>",
@@ -18,5 +18,5 @@
             "Unique to All-Nation-To-One"
         ],
         "unitTypes": ["Sword", "Gunpowder"]
-}
+    }
 ]
