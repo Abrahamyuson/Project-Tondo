@@ -15,7 +15,8 @@
         "+30% Strength when fighting in [Friendly Land] tiles, home turf dominance",
         "+60% Strength when fighting in [Desert] tiles, conquering arid landscapes",
         "Double movement in [Hill], swift maneuvering in elevated areas",
-        "+20% Strength when fighting in [Hill] tiles, commanding the high ground"
+        "+20% Strength when fighting in [Hill] tiles, commanding the high ground",
+        "Unique to All-Nation-To-One"
     ],
     "unitTypes": ["Sword", "Gunpowder"]
 }
