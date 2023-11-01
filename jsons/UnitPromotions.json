@@ -1,23 +1,22 @@
 [
 {
-    "name": "Mystic Buffalo Champion",
-    "uniques": [
-        "+30% Strength when attacking, delivering devastating blows",
-        "+2 Movement, granting exceptional mobility",
-        "+15% Strength when defending against [Ranged] units, protecting against projectiles",
-        "+30% to Flank Attack bonuses, outmaneuvering enemies",
-        "+15% Strength when fighting in [Open terrain] tiles, exploiting terrain advantage",
-        "+20% Strength, becoming an indomitable force",
-        "+60% Strength when defending, standing like an impenetrable wall",
-        "+30 HP when healing, recovering from injuries swiftly",
-        "+60% Strength when attacking, overwhelming opposition",
-        "-15% Strength when defending, a minor vulnerability in some situations",
-        "+30% Strength when fighting in [Friendly Land] tiles, home turf dominance",
-        "+60% Strength when fighting in [Desert] tiles, conquering arid landscapes",
-        "Double movement in [Hill], swift maneuvering in elevated areas",
-        "+20% Strength when fighting in [Hill] tiles, commanding the high ground",
-        "Unique to All-Nation-To-One"
-    ],
-    "unitTypes": ["Sword", "Gunpowder"]
+        "name": "Mystic Buffalo Champion",
+        "uniques": [
+            "[+65]% Strength <when attacking>",
+            "[+50]% Strength <when defending>",
+            "[+2] Movement",
+            "[1] additional attacks per turn","[+1],
+            "[+50]% Strength <when defending> <vs [Ranged] units>",
+            "[+25]% Strength <when fighting in [Friendly Land] tiles>",
+            "[+50] HP when healing",
+            "[+15]% Strength bonus for [Military] units within [2] tiles",
+            "[+125]% to Flank Attack bonuses]",
+            "[+10]% Strength <when fighting in [Open terrain] tiles>",
+            "[+50]% Strength <when fighting in [Desert] tiles>",
+            "[+10]% Strength <when fighting in [Hill] tiles>",
+            "Double movement in [Hill]",
+            "Unique to All-Nation-To-One"
+        ],
+        "unitTypes": ["Sword", "Gunpowder"]
 }
 ]
