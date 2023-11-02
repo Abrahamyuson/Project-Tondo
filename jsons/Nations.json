@@ -93,8 +93,13 @@
     "[+2 Production] from every [Bonus resource]",
     "[+2 Culture] from every [Bonus resource]",
     "[+2 Science] from every [Bonus resource]",
-    "Starts with [Mining]", 
-    "Starts with 1 [worker]"
+    "[+2 Gold] from every [Strategic resource]",
+    "[+2 Food] from every [Strategic resource]",
+    "[+2 Production] from every [Strategic resource]",
+    "[+2 Culture] from every [Strategic resource]",
+    "[+2 Science] from every [Strategic resource]",
+    "[+1 Food, +1 Production] from every [Terrains]",
+    "Starts with [Mining, Pottery, Animal Husbandry, Calendar, Trapping, Sailing]"
   ],
   "cities": [
     "Centralis", "Prospera", "Vanguardia", "Harmonia", "Fortis", "Nexus", "Citadel", "Elysium", "Pinnacle", "Apex",
