@@ -66,6 +66,8 @@
   "innerColor": [218, 175, 58],
   "uniqueName": "Unity Pact",
   "uniques": [
+    "Starts with [+2 Settler] units",
+    "[Settler] units gain the [Mystic Buffalo Champion] promotion",
     "[Worker] units gain the [Mystic Buffalo Champion] promotion",
     "May choose [5] additional belief(s) of any type when",
     "[-20%] Culture cost of adopting new Policies",
