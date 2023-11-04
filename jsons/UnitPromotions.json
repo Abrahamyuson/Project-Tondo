@@ -44,6 +44,6 @@
             "Double movement in [Hill]",
             "No movement cost to pillage"
         ],
-        "unitTypes": ["Sword", "Gunpowder"]
+        "unitTypes": ["Sword", "Gunpowder", "Atomic Bomber", "Bomber", "Civilian", "Civilian Water", "Deity", "Deity Air", "Fighter", "Mounted", "Ranged Frontier Hunter", "Ranged Gunpowder", "Ranged Water", "Scout", "Siege", "Submarine", "Helicopter", "Mech", "Medical", "Melee Water", "Missile", "Archery", "Armored", "Aircraft Carrier",]
     }
 ]
